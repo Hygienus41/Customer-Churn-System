@@ -1,0 +1,44 @@
+{
+    "model_name": "Customer Churn XGBoost Production Model",
+    "model_file": "final_churn_model.pkl",
+    "preprocessor_file": "preprocessor.pkl",
+    "threshold_file": "final_threshold.pkl",
+    "classification_threshold": 0.33999999999999986,
+    "business_risk_thresholds": {
+        "low_risk_upper_bound": 0.4,
+        "high_risk_lower_bound": 0.7
+    },
+    "model_type": "Pipeline",
+    "preprocessor_type": "ColumnTransformer",
+    "package_versions": {
+        "python": "3.12.12",
+        "pandas": "2.3.3",
+        "numpy": "2.3.5",
+        "scikit-learn": "1.6.0",
+        "xgboost": "3.3.0",
+        "joblib": "1.4.2"
+    },
+    "inference_timestamp": "2026-08-17T21:05:20.048116",
+    "input_feature_count": 19,
+    "expected_raw_features": [
+        "gender",
+        "SeniorCitizen",
+        "Partner",
+        "Dependents",
+        "tenure",
+        "PhoneService",
+        "MultipleLines",
+        "InternetService",
+        "OnlineSecurity",
+        "OnlineBackup",
+        "DeviceProtection",
+        "TechSupport",
+        "StreamingTV",
+        "StreamingMovies",
+        "Contract",
+        "PaperlessBilling",
+        "PaymentMethod",
+        "MonthlyCharges",
+        "TotalCharges"
+    ]
+}

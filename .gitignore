@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Anaconda
+*.conda
+*.tar.bz2
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg-info/
+build/
+dist/
+
+# Temporary files
+*.tmp
+*.log
+
+# Secrets
+.env
+.env.*
+
+# Generated outputs
+outputs/
