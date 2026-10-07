@@ -335,3 +335,62 @@ Potential next steps include:
 This project was developed as a practical portfolio demonstration of end-to-end data science and machine learning, with an emphasis on connecting technical modeling to measurable business decisions.
 
 **Core focus:** Data Science • Machine Learning • Predictive Analytics • Business Intelligence • Explainable AI
+
+## 🧪 Test the Application
+
+A sample test dataset is included in the repository so that the application can be tested without requiring users to prepare their own data.
+
+### Test Dataset
+
+```text
+data/test/telco_churn_test_50.csv
+```
+
+The dataset contains 50 customer records using the same input structure expected by the churn prediction pipeline.
+
+### How to Test
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Hygienus41/Customer-Churn-System.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd Customer-Churn-System
+```
+
+3. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Start the Streamlit application:
+
+```bash
+streamlit run app/app.py
+```
+
+5. Open the **Portfolio Analysis** page from the application sidebar.
+
+6. Upload:
+
+```text
+data/test/telco_churn_test_50.csv
+```
+
+7. Run the portfolio analysis.
+
+The application will generate:
+
+* 📊 Customer churn predictions
+* 🚦 Low, Medium, and High risk classifications
+* 💰 Expected revenue at risk
+* 📅 Expected annual revenue at risk
+* 🎯 Retention priority scores
+* 💡 Recommended retention actions
+
+This test dataset is provided for demonstration and application testing purposes.

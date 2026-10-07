@@ -1,0 +1,51 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+TEST001,Female,0,Yes,No,12,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,Yes,Electronic check,65.5,786.0,No
+TEST002,Male,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,89.9,269.7,Yes
+TEST003,Female,1,Yes,No,48,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),72.3,3470.4,No
+TEST004,Male,0,No,Yes,7,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,95.4,667.8,Yes
+TEST005,Female,0,Yes,Yes,60,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),25.1,1506.0,No
+TEST006,Male,1,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,94.7,189.4,Yes
+TEST007,Female,0,Yes,No,24,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),69.8,1675.2,No
+TEST008,Male,0,No,No,9,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,92.3,830.7,Yes
+TEST009,Female,0,Yes,Yes,36,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),78.6,2829.6,No
+TEST010,Male,1,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),105.2,7574.4,No
+TEST011,Female,0,No,No,5,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,55.7,278.5,Yes
+TEST012,Male,0,Yes,Yes,18,Yes,No,DSL,Yes,No,Yes,No,Yes,No,One year,Yes,Credit card (automatic),64.2,1155.6,No
+TEST013,Female,1,No,No,8,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101.5,812.0,Yes
+TEST014,Male,0,Yes,No,30,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Bank transfer (automatic),70.4,2112.0,No
+TEST015,Female,0,Yes,Yes,44,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,24.8,1091.2,No
+TEST016,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,88.1,88.1,Yes
+TEST017,Female,0,Yes,No,15,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),68.9,1033.5,No
+TEST018,Male,1,No,No,6,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,97.2,583.2,Yes
+TEST019,Female,0,Yes,Yes,52,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),85.7,4456.4,No
+TEST020,Male,0,No,Yes,20,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,One year,Yes,Mailed check,82.6,1652.0,No
+TEST021,Female,1,No,No,4,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,96.8,387.2,Yes
+TEST022,Male,0,Yes,Yes,33,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,One year,No,Bank transfer (automatic),71.5,2359.5,No
+TEST023,Female,0,No,No,10,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,91.7,917.0,Yes
+TEST024,Male,0,Yes,No,41,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),79.3,3251.3,No
+TEST025,Female,0,Yes,Yes,27,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),24.6,664.2,No
+TEST026,Male,1,No,No,11,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.4,1093.4,Yes
+TEST027,Female,0,Yes,No,39,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),76.8,2995.2,No
+TEST028,Male,0,No,No,14,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,93.6,1310.4,Yes
+TEST029,Female,1,Yes,No,67,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),108.4,7262.8,No
+TEST030,Male,0,Yes,Yes,22,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,No,Credit card (automatic),67.2,1478.4,No
+TEST031,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,90.5,181.0,Yes
+TEST032,Male,0,Yes,No,50,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Bank transfer (automatic),81.9,4095.0,No
+TEST033,Female,0,No,Yes,17,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.1,1599.7,Yes
+TEST034,Male,1,Yes,No,29,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,One year,Yes,Mailed check,73.5,2131.5,No
+TEST035,Female,0,Yes,Yes,58,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),25.4,1473.2,No
+TEST036,Male,0,No,No,6,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,98.7,592.2,Yes
+TEST037,Female,0,Yes,No,35,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,No,Bank transfer (automatic),77.4,2709.0,No
+TEST038,Male,1,No,No,13,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,102.3,1329.9,Yes
+TEST039,Female,0,Yes,Yes,47,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),86.2,4051.4,No
+TEST040,Male,0,No,Yes,25,Yes,No,DSL,No,Yes,Yes,Yes,No,No,One year,Yes,Mailed check,69.7,1742.5,No
+TEST041,Female,1,No,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,97.9,293.7,Yes
+TEST042,Male,0,Yes,Yes,54,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Bank transfer (automatic),82.1,4433.4,No
+TEST043,Female,0,No,No,7,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.8,670.6,Yes
+TEST044,Male,1,Yes,No,38,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),104.6,3974.8,No
+TEST045,Female,0,Yes,Yes,19,Yes,No,DSL,Yes,No,Yes,Yes,No,No,One year,No,Bank transfer (automatic),66.8,1269.2,No
+TEST046,Male,0,No,No,5,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,93.2,466.0,Yes
+TEST047,Female,0,Yes,No,43,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),79.8,3431.4,No
+TEST048,Male,1,No,No,9,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,91.4,822.6,Yes
+TEST049,Female,0,Yes,Yes,31,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,No,Bank transfer (automatic),75.6,2343.6,No
+TEST050,Male,0,No,Yes,16,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,96.1,1537.6,Yes
